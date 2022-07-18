@@ -1,0 +1,65 @@
+/* .assign-task {
+    padding: 150px 70px 150px 250px;
+    
+} */
+
+.assign-task form {
+    /* height: 35px;
+    margin: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display:inline;
+    text-align: start;
+    vertical-align: top; */
+    height: 35px;
+    margin: -240px;
+    margin-left: 260px;
+    display:inline;
+    text-align: start;
+    /* vertical-align: top; */
+    padding: 150px 70px 150px -50px;
+}
+
+button {
+    color: white;
+    background:rgb(98, 0, 255);
+    display: block;
+    height: 40px;
+    width: 130px;
+    margin: 230px;
+    margin-left: 1350px;
+    margin-top: -205px;
+    border:grey;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* hr {
+    margin-bottom: 50px;
+    margin-top: -230px;
+    margin-right: 500px;
+    margin-left: 260px;
+    vertical-align: top;
+} */
+
+.task-log form {
+    height: 35px;
+    margin: -240px;
+    margin-left: 260px;
+    display:inline;
+    text-align: start;
+    vertical-align: top;
+}
+
+.admin-tasks {
+    padding: 150px 70px 150px 250px;
+    
+}
+
+.add-task form {
+    height: 35px;
+    margin: 100px;
+    display:inline;
+    text-align: start;
+    vertical-align: top;
+}
